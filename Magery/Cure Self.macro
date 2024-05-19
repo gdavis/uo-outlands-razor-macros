@@ -3,6 +3,6 @@ Assistant.Macros.HotKeyAction|1332|
 Assistant.Macros.HotKeyAction|1195|
 Assistant.Macros.HotKeyAction|2058|
 Assistant.Macros.HotKeyAction|2059|
-Assistant.Macros.ExtCastSpellAction|11|4294967295
+Assistant.Macros.CastSpellAction|11
 Assistant.Macros.WaitForTargetAction|3
 Assistant.Macros.HotKeyAction|1059|
